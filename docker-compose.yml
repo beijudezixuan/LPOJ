@@ -183,7 +183,7 @@ services:
       
       SFTP_IP: "49.235.227.142" # 必须修改，不能写127.0.0.1或localhost，必须写你的局域网地址或者公网地址
       SFTP_USER: 'ubuntu' # 必须修改
-      SFTP_PASSWORD: 'ubuntuubuntu' # 必须修改
+      SFTP_PASSWORD: 'danPSJt|e)84z{U=' # 必须修改
       BACKEND_PATH: "/home/ubuntu/xuan/LPOJ/Backend" # 必须修改
       NO_DOWNLOAD: "no" # 设为yes，则不使用sftp，需要手动将数据压缩包放到Judger/ProblemData中
 
